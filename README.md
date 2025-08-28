@@ -72,43 +72,6 @@ This project is under the **MIT License**.
 ---
 
 ## Acknowledgement
-Dataset reference: ## Tools & Technologies Used
-
-### Languages & Environment
-- Python  
-- Jupyter Notebook  
-
-### Libraries
-- **Data Handling** → Pandas, NumPy  
-- **Visualization** → Matplotlib, Seaborn  
-- **Modeling** → Scikit-learn  
-
-### Visualizations
-- Histograms and bar plots  
-- Boxplots and violin plots (for outlier and distribution analysis)  
-- Correlation heatmaps  
-- Line plots (for trends across regions and months)  
-- Pair plots (to study relationships between features)  
-- Scatter plots with regression lines  
-
-### Machine Learning Models
-- **Ridge Regression**  
-- **Lasso Regression**  
-- **ElasticNet Regression**  
-
-### Cross Validation
-- RidgeCV  
-- LassoCV  
-- ElasticNetCV  
-
----
-
-## License
-This project is under the **MIT License**.  
-
----
-
-## Acknowledgement
 Dataset reference: UCI Machine Learning Repository.
 Link to Dataset : https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset
 
